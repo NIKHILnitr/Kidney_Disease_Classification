@@ -54,9 +54,7 @@ open up you local host and port
 
 ## MLflow
 
-- [Documentation](https://mlflow.org/docs/latest/index.html)
 
-- [MLflow tutorial](https://youtu.be/qdcHHrsXA48?si=bD5vDS60akNphkem)
 
 ##### cmd
 - mlflow ui
